@@ -1,0 +1,284 @@
+[LOG] Created client!
+[ERROR] Unhandled Rejection at:
+[LOG] Created client!
+[ERROR] error creating client:
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] 1234
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 22
+[LOG] 44
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Created client!
+[ERROR] error creating client:
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Created client!
+[ERROR] error creating client:
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Created client!
+[ERROR] error creating client:
+[LOG] Reload client!
+[ERROR] Unhandled Rejection at:
+[LOG] Created client!
+[ERROR] error creating client:
+[LOG] Reload client!
+[ERROR] Unhandled Rejection at:
+[LOG] Created client!
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Created client!
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Created client!
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Created client!
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Created client!
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Created client!
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client
+[LOG] Reload client!
+[LOG] Opened connection!
+[LOG] get data!
+[LOG] get data!
+[LOG] get data!
+[LOG] end data!
+[ERROR] Error: 1 CANCELLED: Cancelled on client

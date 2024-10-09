@@ -1,0 +1,17 @@
+{
+    "name": "simple-inworld",
+    "version": "1.0.0",
+    "description": "",
+    "main": "api.js",
+    "scripts": {
+      "start": "node server/api.js"
+    },
+    "type": "module",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "@inworld/nodejs-sdk": "^1.5.1",
+      "express": "*",
+      "axios": "*"
+    }
+} 
