@@ -46,9 +46,7 @@ const client = await new InworldClient()
 
 3. **Insert your own API key** and **secret** from Inworld AI.
 
-### Step 4: Add Your Discord Webhook (Optional)
-
-If you want to send audio responses to a Discord server, you'll need to configure a webhook URL.
+### Step 4: Add Your Discord Webhook
 
 1. Set up a webhook in your Discord server.
 2. Replace the placeholder webhook URL in the code with your own:
@@ -56,8 +54,6 @@ If you want to send audio responses to a Discord server, you'll need to configur
 ```javascript
 const webhookURL = 'https://discord.com/api/webhooks/YOUR_WEBHOOK_ID';
 ```
-
-This will allow audio clips to be uploaded to Discord and shared with your server members.
 
 ### Step 5: Start Your FiveM Server
 
